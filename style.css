@@ -22,7 +22,15 @@
 .nav-address:hover{
    border: 2px solid white;
 }
-
+.nav-search:hover{
+   border: 2px solid white;
+}
+.nav-signin:hover{
+   border: 2px solid white;
+}
+.nav-return:hover{
+   border: 2px solid white;
+}
 .logo {
    background-image: url("amazon_logo.png");
    background-size: cover;
